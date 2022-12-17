@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "name": "Mamory Balo",
+      "location": "Jersey City, New Jersey",
+      "image": "https://i.imgur.com/M9xjO2X.jpg",
+      "attraction": "Women",
+      "age": "32",
+      "relationship": "Married",
+      "bio": "alone involuntarily "
+    },
+    {
+      "id": 2,
+      "name": "Josiah Clark",
+      "location": "Harlem, NewYork",
+      "image": "https://i.imgur.com/qQuAwqg.jpg" ,
+      "attraction": "Women",
+      "age": "28",
+      "relationship": "Single",
+      "bio": "its always lit in the city "
+
+    },
+    {
+      "id": 3,
+      "name": "Elizabeth Foru",
+      "location": "Brooklyn, New York",
+      "image": "https://i.imgur.com/pKIpbh7.jpg" ,
+      "attraction": "Men",
+      "age": "32",
+      "relationship": "Single",
+      "bio": "a date in dumbo anyone ? "
+    },
+    {
+      "id": 4,
+      "name": "Paige Garsson",
+      "location": "Soho, New York",
+      "image": "https://i.imgur.com/s28kmKt.jpg" ,
+      "attraction": "Men",
+      "age": "24",
+      "relationship": "Open Relationship",
+      "bio": "I am very friendly and excited to try something new ! "
+    },
+    {
+      "id": 5,
+      "name": "Pug Lou",
+      "location": "Albany, New York",
+      "image": "https://i.imgur.com/uDlH5gW.jpg" ,
+      "attraction": "Women",
+      "age": "23",
+      "relationship": "Single",
+      "bio": "Hey guys ! "
+    },
+    {
+      "id": 6,
+      "name": "Valarie Park",
+      "location": "Bronx, New York",
+      "image": "https://i.imgur.com/g3c22yN.jpg" ,
+      "attraction": "Men",
+      "age": "35",
+      "relationship": "Open Relationship",
+      "bio": "Glad theres a site for people like me. Loving it here ! "
+    },
+    {
+      "id": 7,
+      "name": "Rebecca Tilden",
+      "location": "Harlem, New York",
+      "image": "https://i.imgur.com/uDlH5gW.jpg" ,
+      "attraction": "Men",
+      "age": "30",
+      "relationship": "Divorced",
+      "bio": "Glad theres a site for people like me. Loving it here ! "
+    },
+    {
+      "id": 8,
+      "name": "Jessi Mensu",
+      "location": "Park Slope, New York",
+      "image": "https://i.imgur.com/g3c22yN.jpg" ,
+      "attraction": "Men",
+      "age": "30",
+      "relationship": "Single",
+      "bio": "Glad theres a site for people like me. Loving it here ! "
+    },
+    {
+      "id": 9,
+      "name": "Carlos Mensu",
+      "location": "Bronx, New York",
+      "image": "https://i.imgur.com/uDlH5gW.jpg" ,
+      "attraction": "Women",
+      "age": "30",
+      "relationship": "Single",
+      "bio": "Glad theres a site for people like me. Loving it here ! "
+    },
+    {
+      "id": 10,
+      "name": "Diamond Estal",
+      "location": "Long Island, New York",
+      "image": "https://i.imgur.com/g3c22yN.jpg" ,
+      "attraction": "Men",
+      "age": "22",
+      "relationship": "Single",
+      "bio": "Glad theres a site for people like me. Loving it here ! "
+    },
+    {
+      "id": 11,
+      "name": "Jake Park",
+      "location": "Bronx, New York",
+      "image": "https://i.imgur.com/g3c22yN.jpg" ,
+      "attraction": "Men",
+      "age": "30",
+      "relationship": "Divorced",
+      "bio": "Glad theres a site for people like me. Loving it here ! "
+    },
+    {
+      "id": 12,
+      "name": "Alec Curst",
+      "location": "Albany, New York",
+      "image": "https://i.imgur.com/uDlH5gW.jpg" ,
+      "attraction": "Women",
+      "age": "30",
+      "relationship": "Single",
+      "bio": "Glad theres a site for people like me. Loving it here ! "
+    },
+    {
+      "id": 13,
+      "name": "Mercedes Abram",
+      "location": "Brooklyn, New York",
+      "image": "https://i.imgur.com/uDlH5gW.jpg" ,
+      "attraction": "Men",
+      "age": "30",
+      "relationship": "Divorced",
+      "bio": "Glad theres a site for people like me. Loving it here ! "
+    },
+    {
+      "id": 14,
+      "name": "Jennifer George",
+      "location": "Bronx, New York",
+      "image": "https://i.imgur.com/g3c22yN.jpg" ,
+      "attraction": "Men",
+      "age": "26",
+      "relationship": "Single",
+      "bio": "Glad theres a site for people like me. Loving it here ! "
+    },
+    {
+      "id": 15,
+      "name": "Jon Abru",
+      "location": "Park Slope, New York",
+      "image": "https://i.imgur.com/g3c22yN.jpg" ,
+      "attraction": "Women",
+      "age": "30",
+      "relationship": "Single",
+      "bio": "Glad theres a site for people like me. Loving it here ! "
+    }
+  ]
